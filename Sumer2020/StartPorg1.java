@@ -28,7 +28,7 @@ public class StartPorg1
     
     public static void main(String args[])
     {
-        int i;
+        int i = 5;
         
         System.out.println("This variable has the value of " + i);
     }
