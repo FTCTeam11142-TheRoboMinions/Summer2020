@@ -1,3 +1,5 @@
+package Day2_Variables_Datatypes_Packages;
+
 class StartPorg1_2
 {
     //this is a comment. two backslashes make a comment

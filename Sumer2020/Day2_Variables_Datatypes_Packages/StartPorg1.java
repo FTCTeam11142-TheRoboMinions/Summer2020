@@ -1,3 +1,5 @@
+package Day2_Variables_Datatypes_Packages;
+
 public class StartPorg1
 {
     //two forward slashes make a comment
