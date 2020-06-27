@@ -31,6 +31,8 @@ public class challenge1
          *                int i = sc.nextInt();
          *                
          *                double d = sc.nextDouble(); 
+         *                
+         *                char c = sc.next().charAt(0);
         **/
         //Your code goes here
     }    
