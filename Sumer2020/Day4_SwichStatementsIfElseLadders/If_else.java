@@ -16,10 +16,10 @@ public class If_else
        int c = 7;
        
        if(a>0)
-   
+       {
            System.out.println("A is greater than 0");
         
-        
+       }
        else if(a<0)
         {
             System.out.println("A is lesser than 0");
