@@ -18,6 +18,8 @@ public class looooops
        {
            sum = sum + i;
            System.out.println("Program finished" + sum);
+           
+           i++;
        }
    }
 }

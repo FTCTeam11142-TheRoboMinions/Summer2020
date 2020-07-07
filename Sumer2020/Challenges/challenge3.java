@@ -1,5 +1,7 @@
 package Challenges;
 
+import java.util.Scanner;
+
 public class challenge3
 {
     /**
@@ -15,7 +17,7 @@ public class challenge3
      *  Level 3 (Kinda Hard)
      *      Combine the program you wrote for challenge 2 with Challenge 3 Level 2. 
      *      So you will have to ask the user for what day it is and then store the discount that will be applicable. 
-     *      The discount for weekdays is 10 percent and the store is closed on Weekdays. This is the discount that will be applied then add your code 
+     *      The discount for weekdays is 10 percent and the store is closed on weekends. This is the discount that will be applied then add your code
      *      for the runnng total. This will calculate the total cost. The last step will be to output the discount multiplied by the price.
      *      
      * Level 4 (God Mode)
@@ -31,8 +33,34 @@ public class challenge3
      *      
      *      
     **/
+
+    //ANSWER STARTS HERE
     public static void main(String args)
     {
-        
+        Scanner sc = new Scanner(System.in);
+
+        //loop for level 1
+        //you want the while loop to run exactly 5 times. So we will initilaize a counter variable
+            int counter = 1;
+            double d = 0;
+            double total = 0;
+
+            while(counter <= 5)
+            {
+                System.out.println("Enter price");
+                total += sc.nextDouble();
+                
+                counter++;
+            }
+
+        //loop for level 2
+        //We have no idea how many times the user wants to run this. But we know that when they are done,
+        //they will enter -1. So check if the inputted value is equal to -1
+
+            while(true)
+            {
+                
+            }
+            
     }
 }
