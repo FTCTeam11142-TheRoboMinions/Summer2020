@@ -1,4 +1,4 @@
-package Day7;
+package Day7_LibraryFunctions_String_Math;
 
 
 /**
@@ -24,7 +24,7 @@ public class MathLib
         Math.cos(a);
         Math.tan(a);
         
-        Math.pow(number, power);
+        Math.pow(5, 2);
         Math.sqrt(a);
         
     }

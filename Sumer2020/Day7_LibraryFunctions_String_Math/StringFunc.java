@@ -1,4 +1,4 @@
-package Day7;
+package Day7_LibraryFunctions_String_Math;
 
 /**
  * Write a description of class StringFunc here.

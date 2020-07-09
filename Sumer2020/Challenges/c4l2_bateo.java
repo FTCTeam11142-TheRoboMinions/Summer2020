@@ -43,7 +43,7 @@ class c4l2_bateo
                 break;
                 
                 case '^':
-                while (counter < number)        //5 = total ^= symbol  3=number
+                while (counter < number-1)        //5 = total ^= symbol  3=number
                 {
                     total *= total;
                     counter++;
