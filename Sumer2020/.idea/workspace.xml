@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b9c1655-dec5-413c-95ea-884339540671" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sumer2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sumer2020/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +22,39 @@
     <favorites_list name="Sumer2020" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,10 +77,13 @@
         <option value="$PROJECT_DIR$/Challenges/c5_Soln.java" />
         <option value="$PROJECT_DIR$/Day8/Function.java" />
         <option value="$PROJECT_DIR$/Challenges/c5_Shobini.java" />
+        <option value="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java" />
+        <option value="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java" />
+        <option value="$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -56,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,11 +102,22 @@
               <item name="Sumer2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sumer2020" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sumer2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sumer2020" type="462c0819:PsiDirectoryNode" />
+              <item name="Day8_GitIntro_FuncIntro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sumer2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sumer2020" type="462c0819:PsiDirectoryNode" />
+              <item name="Day9_GitBranches_FuncIntro" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -76,6 +125,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -91,6 +141,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Function">
+    <configuration name="FuncIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9_GitBranches_FuncIntro.FuncIntro" />
+      <module name="Sumer2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day9_GitBranches_FuncIntro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day8_GitIntro_FuncIntro.Function" />
       <module name="Sumer2020" />
@@ -130,19 +193,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c4_showbhini" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Challenges.c4_showbhini" />
-      <module name="Sumer2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Challenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="c4l2_bateo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Challenges.c4l2_bateo" />
       <module name="Sumer2020" />
@@ -159,10 +209,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Function" />
+        <item itemvalue="Application.FuncIntro" />
         <item itemvalue="Application.ThirdPorg" />
         <item itemvalue="Application.c4l2_bateo" />
         <item itemvalue="Application.c1_matt" />
-        <item itemvalue="Application.c4_showbhini" />
       </list>
     </recent_temporary>
   </component>
@@ -196,8 +246,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,6 +297,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -312,20 +377,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Challenges/challenge5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
