@@ -22,7 +22,7 @@ public class FuncIntro
         Math.abs(-5);
     }
 
-    private static int add(int a, int b) //this function is a static function that adds two numbers and returns nothing
+    public static int add(int a, int b) //this function is a static function that adds two numbers and returns nothing
     {
         int sum = a+b;
         String output = "The sum of " + a + " + " + b + " is ";
