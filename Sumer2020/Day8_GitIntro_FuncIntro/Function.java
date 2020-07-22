@@ -7,6 +7,7 @@ public class Function
     public static void main(String[] args)
     {
         System.out.println(add(5,3));
+        add(5,2);
         System.out.println(add (7, 5));
         System.out.println(add(5,4));
         System.out.println(add(12, 8));
@@ -19,4 +20,6 @@ public class Function
     {
         return a+b;
     }
+
+
 }
