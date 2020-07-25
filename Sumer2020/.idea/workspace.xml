@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9c1655-dec5-413c-95ea-884339540671" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java" afterDir="false" />
+    <list default="true" id="7b9c1655-dec5-413c-95ea-884339540671" name="Default Changelist" comment="Day 9 Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sumer2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sumer2020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/Challenge6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge6.java" beforeDir="false" afterPath="$PROJECT_DIR$/challenge6.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,34 +20,25 @@
     <favorites_list name="Sumer2020" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java">
+        <entry file="file://$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="374">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java">
+        <entry file="file://$PROJECT_DIR$/challenge6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="376">
+              <caret line="85" column="51" lean-forward="true" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
               <folding>
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#1938#1939#0" expanded="true" />
+                <element signature="e#1979#1980#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -64,7 +53,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,6 +75,7 @@
         <option value="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java" />
         <option value="$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java" />
         <option value="$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java" />
+        <option value="$PROJECT_DIR$/challenge6.java" />
       </list>
     </option>
   </component>
@@ -95,6 +91,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,22 +100,10 @@
               <item name="Sumer2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sumer2020" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Sumer2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sumer2020" type="462c0819:PsiDirectoryNode" />
-              <item name="Day8_GitIntro_FuncIntro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sumer2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sumer2020" type="462c0819:PsiDirectoryNode" />
-              <item name="Day9_GitBranches_FuncIntro" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,20 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Function">
-    <configuration name="FuncIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day9_GitBranches_FuncIntro.FuncIntro" />
-      <module name="Sumer2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day9_GitBranches_FuncIntro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.challenge6">
     <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day8_GitIntro_FuncIntro.Function" />
       <module name="Sumer2020" />
@@ -180,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c1_matt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Challenges.c1_matt" />
+    <configuration name="c4_showbhini" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenges.c4_showbhini" />
       <module name="Sumer2020" />
       <extension name="coverage">
         <pattern>
@@ -206,13 +179,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="challenge6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge6" />
+      <module name="Sumer2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Function" />
-        <item itemvalue="Application.FuncIntro" />
+        <item itemvalue="Application.challenge6" />
         <item itemvalue="Application.ThirdPorg" />
+        <item itemvalue="Application.Function" />
         <item itemvalue="Application.c4l2_bateo" />
-        <item itemvalue="Application.c1_matt" />
+        <item itemvalue="Application.c4_showbhini" />
       </list>
     </recent_temporary>
   </component>
@@ -241,14 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594498683937</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 9 Code">
+      <created>1594843323057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594843323057</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,7 +306,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Trial commit when I was teaching on Day 8" />
     <MESSAGE value="Day 8 code. No Challenge for this week." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 8 code. No Challenge for this week." />
+    <MESSAGE value="Day 9 Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 9 Code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Day7_LibraryFunctions_String_Math/MathLib.java">
@@ -386,25 +374,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/FuncIntro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day9_GitBranches_FuncIntro/showProtected.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="102">
+          <caret line="6" column="89" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8_GitIntro_FuncIntro/Function.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="374">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="85" column="51" lean-forward="true" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
           <folding>
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1979#1980#0" expanded="true" />
           </folding>
         </state>
       </provider>
